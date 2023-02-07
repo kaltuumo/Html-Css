@@ -1,0 +1,17 @@
+
+
+.image1 img{
+    float: left;
+    margin: 10px;
+  
+
+}
+.image1 p{
+    text-align: justify;
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 200;
+}
+.image2 img{
+    float: right;
+}

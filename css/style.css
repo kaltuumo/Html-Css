@@ -1,0 +1,99 @@
+body{
+    background-color:palegoldenrod;
+    /* r5 */
+    /* background-image:url("../3.jfif");
+    background-repeat: no-repeat; */
+
+  }
+    blockquote{
+        color: red;
+       
+        font-size: 20px;
+    }
+    /* p{
+        color: green;
+        font-size:20px;
+        font-weight:700;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    } */
+    /* h1{
+        color: gray;
+        font-size:20px;
+        font-weight:700;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+         
+    } */
+    /* .ll{
+        color:red;
+        text-align:center;
+        font-size:70px;
+        font-family: serif;
+    } */
+    .ul{
+        color:rebeccapurple;
+        font-size:20px;
+        font-weight:700;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-style: oblique;
+
+    }
+    .ol{
+        color: palevioletred;
+        font-size:20px;
+        font-weight:700;
+        font-family:cursive;
+        margin: 10px;
+        font-style:oblique ;
+
+    }
+    #sample{
+        color: red;
+        font-size:20px;
+        font-weight:700;
+        font-family:cursive;
+        margin: 10px;
+        font-style:oblique ;
+
+    }
+.Me{
+    color: olivedrab;
+    font-size:20px;
+    font-weight:700;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 10px;
+    font-style:italic ;
+
+    }
+.table{
+    /* width: 1px ;
+     height: 10px;   */
+    font-family:cursive;
+    border-collapse:collapse;
+    margin-left: 30px;   
+}
+.table a{
+    text-decoration: none;
+}
+.table th{
+    color: aqua;
+    background-color:rgb(7, 7, 170);
+       
+    
+   
+}
+.table td{
+    color:orangered;
+   
+
+}
+#img{
+    margin-top: 10px;
+    margin-left: 30px;
+   
+}
+/* #img img{
+    border-radius: 30px;
+} */
+.im1{
+    border-radius: 30px;;
+}
